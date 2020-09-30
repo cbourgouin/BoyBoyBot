@@ -2,10 +2,10 @@
 
 ## A retenir 
 ### Liens 
-[Discord Developer](https://discord.com/developers/applications)\n
-[Discord Permission Calculator](https://discordapi.com/permissions.html)\n
-[Discord.JS](https://discord.js.org/)\n
-[Node JS](https://nodejs.org/en/)\n
+[Discord Developer](https://discord.com/developers/applications) \ 
+[Discord Permission Calculator](https://discordapi.com/permissions.html) \ 
+[Discord.JS](https://discord.js.org/) \ 
+[Node JS](https://nodejs.org/en/) \ 
 [Tuto Part 1](https://youtu.be/O_87Ki1RaIw) 
 
 ### Creations du projet
